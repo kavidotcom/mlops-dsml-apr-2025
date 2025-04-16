@@ -1,4 +1,4 @@
-def reverse_string_v1(input_string):
+def reverse_string_main(input_string):
     """
     Reverses the given string and returns the result.
     
@@ -14,9 +14,11 @@ def reverse_string_v1(input_string):
 if __name__ == "__main__":
     sample_string = "Hello, World!"
     print("Original String:", sample_string)
-    print("Reversed String:", reverse_string_v1(sample_string))
-
+    print("Reversed String:", reverse_string_main(sample_string))
+    
 
 
 
 # some more silly changes
+
+    
