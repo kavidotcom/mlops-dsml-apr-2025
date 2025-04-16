@@ -1,4 +1,4 @@
-def reverse_number_ex1(number):
+def reverse_number(number):
     """
     Reverses the digits of the given number.
 
