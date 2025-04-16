@@ -1,4 +1,4 @@
-def reverse_string(input_string):
+def reverse_string_v1(input_string):
     """
     Reverses the given string and returns the result.
     
