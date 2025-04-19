@@ -7,7 +7,7 @@ encode_dict={
 	 "seller_type": {"Dealer": 1, "Individual": 2, "Trustmark Dealer": 3}
 
      }
-model = joblib.load('cars24-car-price-model.joblib')
+model = joblib.load('/Users/kavithiyagu/Documents/Projects/Mlops/cars24-car-price-model.joblib')
 
 st.title('Cars24 Price Prediction')
 
